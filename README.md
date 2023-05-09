@@ -34,4 +34,4 @@ Atividade 2 - Matriz 5W2H
 
 Atividade 3 - Curva ABC
 
-Atividade 4 - Curva ABC
+Atividade 4 - Exercícios de curva ABC
