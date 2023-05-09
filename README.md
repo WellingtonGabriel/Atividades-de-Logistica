@@ -21,3 +21,17 @@ Atividade 1 - os 5 Moldais de Transporte
 • 4° Ferroviário
 
 • 5° Dutoviário
+
+# UC12
+
+Atividade 1 - Projeto integrador : Logística reversa 
+
+# UC3
+
+Atividade 1 - Matriz GUT 
+
+Atividade 2 - Matriz 5W2H
+
+Atividade 3 - Curva ABC
+
+Atividade 4 - Curva ABC
