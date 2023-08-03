@@ -24,7 +24,11 @@ Atividade 1 - os 5 Moldais de Transporte
 
 # UC12
 
-Atividade 1 - Projeto integrador : Logística reversa 
+Atividade 1 - Projeto integrador : Logística reversa.
+
+Esse projeto tem por finalidade ser uma ong sem fins lucrativos que visa a sustentabilidade através da logística reversa.
+
+Saiba mais em : https://ecoreturn.netlify.app/
 
 # UC3
 
